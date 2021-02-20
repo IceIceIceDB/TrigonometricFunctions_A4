@@ -11,7 +11,7 @@ public class Tan {
         	if(a==Maths.PI/2) {
         		throw new Exception();  //HalfPiInputForTanException
         	}
-        	double[] bernoulli=new double[10];
+        	double[] bernoulli=new double[11];
         	bernoulli=Maths.Bernoulli();
         	double temp;
         	double sum=0;
