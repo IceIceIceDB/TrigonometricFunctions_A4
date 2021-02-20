@@ -38,7 +38,7 @@ public class Maths {
 	    * @return Bernoulli numbers Bn
 	    */
 	   public static double[] Bernoulli() {
-	       double[] result= {1/6,1/30,1/42,1/30,5/66,691/2730,7/6,3617/510,43867/798,174611/330};        
+	       double[] result= {0,1/6,1/30,1/42,1/30,5/66,691/2730,7/6,3617/510,43867/798,174611/330};        
 	       return result;
 	   }
 
